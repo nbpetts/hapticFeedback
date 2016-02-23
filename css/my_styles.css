@@ -7341,4 +7341,13 @@ body {
   background: grey;
 }
 
+h2 {
+  background: lightgrey;
+  display: none;
+}
+
+#vibrateButton {
+  margin-top: 2em;
+}
+
 /*# sourceMappingURL=my_styles.css.map */

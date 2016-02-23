@@ -1,5 +1,11 @@
  $(function() {
-   $("#vibrateButton").vibrate({
-     pattern: [20, 200, 20]
-   });
+
+
+$("#vibrateButton").click(function(e){
+
+  $(".buttonFeedback").toggle();
+});
+$("#vibrateButton").vibrate({
+ pattern: [50, 200, 50]
+});
  });
