@@ -1,0 +1,23 @@
+{
+  "name": "hapticFeedback",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nbpetts/hapticFeedback",
+  "authors": [
+    "nbpetts <nbpetts@gmail.com>"
+  ],
+  "description": "This is a prototype for a train accessibility study done for my capstone project. We created it to test haptic feedback as a mechanism to guide people who are blind through CTA train stations.",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery.vibrate.js": "*",
+    "jquery": "~2.2.1"
+  }
+}

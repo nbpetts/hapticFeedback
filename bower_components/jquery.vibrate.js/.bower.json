@@ -1,0 +1,30 @@
+{
+  "name": "jquery.vibrate.js",
+  "authors": [
+    "Ilias Ismanalijev <hello@illyism.com>"
+  ],
+  "description": "jQuery Vibration wrapper for the Vibration API",
+  "main": "build/jquery/jquery.vibrate.min.js",
+  "keywords": [
+    "jquery",
+    "vibration",
+    "vibrate"
+  ],
+  "license": "GPLv3",
+  "homepage": "http://il.ly/vibrate",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "_release": "d17473d9a3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d17473d9a35592cd9221de501634410d9e9886d5"
+  },
+  "_source": "git://github.com/Illyism/jquery.vibrate.js.git",
+  "_target": "*",
+  "_originalSource": "jquery.vibrate.js",
+  "_direct": true
+}
